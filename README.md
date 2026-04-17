@@ -51,4 +51,5 @@ triggers:
 
 ## License
 
-[MIT](LICENSE) © AI天下仓
+[MIT](LICENSE) © PanWare/AI天下仓
+[MIT](LICENSE) © JasonShane
